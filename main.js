@@ -46,7 +46,7 @@
       navProjects: 'Projects',
       navContact: 'Contact',
       heroBadge: 'HCI · Software Engineering · UX Research',
-      heroSub: `Hi, I'm <strong>Najah Rami Madani</strong> — a Software Engineering student at Umm Al-Qura University, specializing in <em>Human-Computer Interaction</em>. Below are 12 projects spanning UX research, accessibility, voice interfaces, information architecture, and full-stack development.`,
+      heroSub: `Hi, I’m <strong>Najah Rami Madani</strong> — Software Engineering Graduate specializing in Human-Computer Interaction (HCI) from Umm Al-Qura University. Passionate about User Experience (UX) Design, User Interface (UI) Design, and User Research. I am eager to apply my technical and creative skills to develop user-centered digital solutions that address real user needs and deliver intuitive, effective, and engaging experiences.`,
       btnProjects: 'View Projects',
       btnContact: 'Get in touch',
       btnCV: 'CV',
